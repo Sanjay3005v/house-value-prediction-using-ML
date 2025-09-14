@@ -37,5 +37,4 @@ streamlit run web_app.py
 - You can customize the web interface by editing `web_app.py`.
 
 
-
 Thank you
